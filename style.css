@@ -48,7 +48,7 @@
 }
 
 .section2 {
-  margin: 100px;
+  margin: 200px;
 }
 #section2-h1 {
   font-family: 'Poppins', sans-serif;
@@ -60,4 +60,31 @@
 .illustrator-image {
   width: 30%;
   padding: 10px;
+}
+
+#coding-image {
+  width: 40%;
+  padding: 10px;
+}
+
+#project-image {
+  width: 30%;
+}
+
+.section3-background {
+  background-image: url('images/shape-1.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 250px 250px;
+}
+
+.section4-background {
+  background-image: url('images/shape-1.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 250px 250px;
+}
+
+#section3 {
+  margin: 100px;
 }
