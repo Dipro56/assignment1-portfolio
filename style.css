@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .section1 {
   display: flex;
   width: 100%;
@@ -87,4 +91,18 @@
 
 #section3 {
   margin: 100px;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
+
+.permamnent-marker-font {
+  font-family: 'Permanent Marker', cursive;
 }
